@@ -1,0 +1,8 @@
+{
+  "name": "velocityjs",
+  "description": "Velocity.js jQuery animation plugin",
+  "homepage": "https://github.com/Sewdn/meteor-velocityjs",
+  "author": "Pieter Soudan",
+  "version": "0.1.0",
+  "git": "https://github.com/Sewdn/meteor-velocityjs.git"
+}
